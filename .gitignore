@@ -1,0 +1,6 @@
+*uploads
+*node_modules
+*outputs
+*package-lock.json
+*.ass
+.env
