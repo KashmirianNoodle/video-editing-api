@@ -24,7 +24,7 @@ This is a simple Node.js + Express backend for uploading, trimming, adding subti
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/video-editing-backend.git
+git clone https://github.com/KashmirianNoodle/video-editing-api.git
 cd video-editing-backend
 npm install
 ```
